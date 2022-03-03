@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprendizado com perceptron", "aprendizado com perceptron\aprendizado com perceptron.csproj", "{4FA6F653-3718-491F-B6A7-EA5BD43EAC52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA6F653-3718-491F-B6A7-EA5BD43EAC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA6F653-3718-491F-B6A7-EA5BD43EAC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA6F653-3718-491F-B6A7-EA5BD43EAC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA6F653-3718-491F-B6A7-EA5BD43EAC52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA013F70-29EA-446A-8C10-05842F5C729A}
+	EndGlobalSection
+EndGlobal

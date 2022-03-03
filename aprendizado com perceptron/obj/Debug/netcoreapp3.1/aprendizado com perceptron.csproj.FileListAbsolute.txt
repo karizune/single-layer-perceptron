@@ -1,0 +1,14 @@
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.csproj.AssemblyReference.cache
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.AssemblyInfoInputs.cache
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.AssemblyInfo.cs
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.exe
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.deps.json
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.runtimeconfig.json
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.runtimeconfig.dev.json
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.dll
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\bin\Debug\netcoreapp3.1\aprendizado com perceptron.pdb
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.dll
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.pdb
+C:\Users\luanc\source\repos\aprendizado com perceptron\aprendizado com perceptron\obj\Debug\netcoreapp3.1\aprendizado com perceptron.genruntimeconfig.cache
